@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>高兴</key>
+	<string>mood_1@3x.png</string>
+	<key>非常高兴</key>
+	<string>mood_2@3x.png</string>
+	<key>平淡</key>
+	<string>mood_3@3x.png</string>
+	<key>伤心</key>
+	<string>mood_4@3x.png</string>
+	<key>很生气</key>
+	<string>mood_5@3x.png</string>
+	<key>非常生气</key>
+	<string>mood_6@3x.png</string>
+</dict>
+</plist>
